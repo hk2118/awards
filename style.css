@@ -1,0 +1,14 @@
+.award{
+    display: block;
+    margin: 0 auto; /* Horizontally center */
+    max-width: 100%;
+    height: auto;
+}
+p{
+    font-size: 18px;
+}
+
+.content{
+    border:5px solid white;
+    border-radius: 10px;
+}
